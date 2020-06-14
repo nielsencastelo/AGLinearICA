@@ -9,3 +9,5 @@
  n_geracao é o número maximo de geração no Algoritmo Genético
  Para estimar o kernel utilizamos o método de Silverman em cada iteração
  O arquivo testeLinear.m teste o algoritmo para dados sintéticos gerado no matlab.
+ 
+ O arquivo Dissertação.pdf tem mais informações sobre o método.
